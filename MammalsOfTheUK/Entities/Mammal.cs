@@ -4,7 +4,6 @@ namespace MammalsOfTheUK.Entities
 {
     public class Mammal
     {
-        [Range(1, 10)]
         public int MammalID { get; set; }
         
         [StringLength(1000)]

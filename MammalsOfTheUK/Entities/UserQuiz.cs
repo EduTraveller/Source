@@ -4,10 +4,8 @@ namespace MammalsOfTheUK.Entities
 {
     public class UserQuiz
     {
-        [Range(1, 11)]
         public int UserID { get; set; }
         
-        [Range(1, 11)]
         public int QuizID { get; set; }
         
         [Required]
