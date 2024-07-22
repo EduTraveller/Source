@@ -5,6 +5,70 @@
       "PackagePath": "staticwebassets/MammalsOfTheUK.bundle.scp.css"
     },
     {
+      "Id": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/Images/Homepage/1.jpg",
+      "PackagePath": "staticwebassets/Images/Homepage/1.jpg"
+    },
+    {
+      "Id": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/Images/Homepage/2.jpg",
+      "PackagePath": "staticwebassets/Images/Homepage/2.jpg"
+    },
+    {
+      "Id": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/Images/Logo/Logo.png",
+      "PackagePath": "staticwebassets/Images/Logo/Logo.png"
+    },
+    {
+      "Id": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/Images/Mammals/Badger.jpg",
+      "PackagePath": "staticwebassets/Images/Mammals/Badger.jpg"
+    },
+    {
+      "Id": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/Images/Mammals/European Otter.jpg",
+      "PackagePath": "staticwebassets/Images/Mammals/European Otter.jpg"
+    },
+    {
+      "Id": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/Images/Mammals/Grey Seal.jpg",
+      "PackagePath": "staticwebassets/Images/Mammals/Grey Seal.jpg"
+    },
+    {
+      "Id": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/Images/Mammals/Hedgehog.jpeg",
+      "PackagePath": "staticwebassets/Images/Mammals/Hedgehog.jpeg"
+    },
+    {
+      "Id": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/Images/Mammals/Mountain Hare.jpg",
+      "PackagePath": "staticwebassets/Images/Mammals/Mountain Hare.jpg"
+    },
+    {
+      "Id": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/Images/Mammals/Pine Marten.jpg",
+      "PackagePath": "staticwebassets/Images/Mammals/Pine Marten.jpg"
+    },
+    {
+      "Id": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/Images/Mammals/Red Deer.jpg",
+      "PackagePath": "staticwebassets/Images/Mammals/Red Deer.jpg"
+    },
+    {
+      "Id": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/Images/Mammals/Red Fox.jpeg",
+      "PackagePath": "staticwebassets/Images/Mammals/Red Fox.jpeg"
+    },
+    {
+      "Id": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/Images/Mammals/Red Squirrel.jpg",
+      "PackagePath": "staticwebassets/Images/Mammals/Red Squirrel.jpg"
+    },
+    {
+      "Id": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/Images/Mammals/Stoat.jpg",
+      "PackagePath": "staticwebassets/Images/Mammals/Stoat.jpg"
+    },
+    {
+      "Id": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/Images/Quiz/1.jpg",
+      "PackagePath": "staticwebassets/Images/Quiz/1.jpg"
+    },
+    {
+      "Id": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/Images/Quiz/2.jpeg",
+      "PackagePath": "staticwebassets/Images/Quiz/2.jpeg"
+    },
+    {
+      "Id": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/Images/Quiz/3.jpg",
+      "PackagePath": "staticwebassets/Images/Quiz/3.jpg"
+    },
+    {
       "Id": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/css/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
     },
