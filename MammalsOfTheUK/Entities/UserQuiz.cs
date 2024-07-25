@@ -1,3 +1,10 @@
+
+/* <summary>
+   Represents a User Quiz association, linking users to quizzes they have taken.
+   Author: Eduardo
+   Last Modified: 25/07/2024
+*/
+
 using System.ComponentModel.DataAnnotations; // Import DataAnnotations for validation and metadata
 
 namespace MammalsOfTheUK.Entities
@@ -21,6 +28,3 @@ namespace MammalsOfTheUK.Entities
         public DateTime DateOfQuiz { get; set; }
     }
 }
-
-// Author: Eduardo
-// Last Modified: 22/07/2024

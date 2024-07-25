@@ -1,3 +1,10 @@
+
+/* <summary>
+   Represents a Question entity with properties for the quiz system.
+   Author: Eduardo
+   Last Modified: 25/07/2024
+*/
+
 using System.ComponentModel.DataAnnotations; // Import DataAnnotations for validation and metadata
 
 namespace MammalsOfTheUK.Entities
@@ -15,7 +22,7 @@ namespace MammalsOfTheUK.Entities
         // Display name for UI purposes
         [StringLength(255)]
         [Display(Name = "Question Text")]
-        public string QuestionText { get; set; } = string.Empty; // to avoid NullReferenceException. 
+        public string QuestionText { get; set; } = string.Empty; // Initialize to avoid NullReferenceException. 
         
         // Text for option A, with a maximum length of 100 characters
         [StringLength(100)]
@@ -43,6 +50,3 @@ namespace MammalsOfTheUK.Entities
         public string CorrectOption { get; set; } = string.Empty; 
     }
 }
-
-// Author: Eduardo
-// Last Modified: 22/07/2024

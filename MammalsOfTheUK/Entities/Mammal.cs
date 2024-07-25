@@ -1,3 +1,10 @@
+
+/* <summary>
+   Represents a Mammal entity with various properties for the mammal database.
+   Author: Eduardo
+   Last Modified: 25/07/2024
+*/
+
 using System.ComponentModel.DataAnnotations; // Import DataAnnotations for validation and metadata
 
 namespace MammalsOfTheUK.Entities
@@ -10,7 +17,7 @@ namespace MammalsOfTheUK.Entities
         
         // Description of the mammal, with a maximum length of 1000 characters
         [StringLength(1000)]
-        public string Description { get; set; } = string.Empty; // to avoid NullReferenceException. 
+        public string Description { get; set; } = string.Empty; // Initialize to avoid NullReferenceException. 
         
         // Image URL or path associated with the mammal, with a maximum length of 120 characters
         [StringLength(120)]
@@ -55,6 +62,3 @@ namespace MammalsOfTheUK.Entities
         public string LooksLike { get; set; } = string.Empty;
     }
 }
-
-// Author: Eduardo
-// Last Modified: 22/07/2024

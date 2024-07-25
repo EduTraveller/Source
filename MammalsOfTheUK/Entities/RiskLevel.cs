@@ -1,3 +1,10 @@
+
+/* <summary>
+   Represents different levels of risk for mammals in each country using an enumeration.
+   Author: Eduardo
+   Last Modified: 25/07/2024
+*/
+
 using System.ComponentModel.DataAnnotations; // Import DataAnnotations for validation and metadata
 
 namespace MammalsOfTheUK.Entities
@@ -31,6 +38,3 @@ namespace MammalsOfTheUK.Entities
         Extinct = 7
     }
 }
-
-// Author: Eduardo
-// Last Modified: 22/07/2024

@@ -1,3 +1,10 @@
+
+/* <summary>
+   Represents a User entity with a unique identifier.
+   Author: Eduardo
+   Last Modified: 25/07/2024
+*/
+
 using System.ComponentModel.DataAnnotations; // Import DataAnnotations for validation and metadata
 
 namespace MammalsOfTheUK.Entities
@@ -10,6 +17,3 @@ namespace MammalsOfTheUK.Entities
         public int UserID { get; set; }
     }
 }
-
-// Author: Eduardo
-// Last Modified: 22/07/2024

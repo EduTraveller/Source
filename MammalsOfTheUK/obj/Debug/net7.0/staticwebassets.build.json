@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OtdWI60CefBJ8QPA7TFBSSYvfXoziRiHuur/fdI2fY4=",
+  "Hash": "9NqmLo+tfdpymsSQlyg4ZJSXkv0SAi16nseua7KRcy8=",
   "Source": "MammalsOfTheUK",
   "BasePath": "_content/MammalsOfTheUK",
   "Mode": "Default",
@@ -340,12 +340,12 @@
       "OriginalItemSpec": "wwwroot/Images/Homepage/2.jpg"
     },
     {
-      "Identity": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/Images/Logo/Logo.png",
+      "Identity": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/Images/Logo/Logo.jpg",
       "SourceId": "MammalsOfTheUK",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/",
       "BasePath": "_content/MammalsOfTheUK",
-      "RelativePath": "Images/Logo/Logo.png",
+      "RelativePath": "Images/Logo/Logo.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -356,7 +356,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Images/Logo/Logo.png"
+      "OriginalItemSpec": "wwwroot/Images/Logo/Logo.jpg"
     },
     {
       "Identity": "/Users/edutraveller/Desktop/\uF8FF/Source/MammalsOfTheUK/wwwroot/Images/Mammals/Badger.jpg",
